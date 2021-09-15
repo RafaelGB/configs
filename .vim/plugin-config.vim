@@ -82,8 +82,11 @@ set shortmess+=c
 set signcolumn=yes
 
 " fugitive always vertical diffing
-set diffopt+=vertical
 
+if &diff
+    set diffopt-=internal
+    set diffopt+=vertical
+endif
 
 
 " Highlight symbol under cursor on CursorHold
