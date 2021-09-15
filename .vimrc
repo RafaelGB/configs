@@ -20,7 +20,7 @@ set laststatus=2
 set noshowmode
 
 "" Theme
-colorscheme gruvbox
+"" colorscheme gruvbox
 
 au BufNewFile,BufRead *.html set filetype=htmldjango
 
@@ -59,6 +59,7 @@ if has('nvim')
 endif
 
 
+"" linters
 "" Searching
 set hlsearch                    " highlight matches
 set incsearch                   " incremental searching
