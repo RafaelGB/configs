@@ -46,6 +46,46 @@
             }
           }
         ]
+      },
+      {
+        "id": "3fbd8816f88549d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ad8b56b0951c4b4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,15 +132,15 @@
   },
   "active": "0e4079c812dbcb9e",
   "lastOpenFiles": [
-    "📚 Literature Notes/202109121819 - R Programming Language.md",
-    "🧑🏼‍💻 Mis proyectos/🙊 Personales/Mis proyectos personales - Registro.md",
-    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110121407.md",
-    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Mercury GTS/📁 Configuracion entorno/Configuración entorno 2.0 GTS.md",
-    "🗂 Recursos comunes/📂 Dataview/☑️ My Tasks.md",
-    "⚙️ Dashboard Global.md",
-    "Wiki/📁 Tech/📁 AWS/Cómputo.md",
-    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Mercury GTS/📁 Configuracion entorno/Instalar certificado para Tokenmanager y Gluu Server.md",
-    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Mercury GTS/📁 Configuracion entorno/Configurar SQL Developer.md",
-    "Wiki/📁 Tech/📁 AWS/AWS.md"
+    "📔 Mi diario/2021/2021-05-08.md",
+    "Wiki/📁 Tech/📁 AWS/📁 ZettelCaster permanent entries/202105082242 - Estrategias Disaster Recovery en AWS.md",
+    "Wiki/📁 Tech/📁 AWS/Kinesis Data Streams (KDS).md",
+    "Wiki/📁 Tech/📁 AWS/Amazon Redshift.md",
+    "Wiki/📁 Tech/📁 Definiciones/desastre.md",
+    "Wiki/📁 Tech/📁 AWS/Recovery Point Objective (RPO).md",
+    "Wiki/📁 Tech/📁 Definiciones/Recovery Time Objective (RTO).md",
+    "Wiki/📁 Tech/📁 Definiciones/Resiliencia.md",
+    "Wiki/📁 Tech/📁 Definiciones/Disaster recovery (DR).md",
+    "Wiki/📁 Tech/📁 AWS/Kinesis.md"
   ]
 }

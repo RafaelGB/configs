@@ -22,24 +22,45 @@
       }
     },
     {
-      "query": "path:\"🧑🏼‍💻 Mis proyectos/🙊 Personales\"",
+      "query": "path:\"📨 Buzón de entrada/⏱ Fleeting Notes\"",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"📚 Literature Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     },
     {
       "query": "path:\"🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture\"",
       "color": {
         "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"📨 Buzón de entrada/💡 Ideas\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"📨 Buzón de entrada/👨🏼‍🏫 Reuniones\"",
+      "color": {
+        "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "path:\"📨 Buzón de entrada\"",
+      "query": "path:\"🗂 Recursos comunes\"",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 11621088
       }
     }
   ],
@@ -53,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.334538415945529,
-  "close": false
+  "scale": 0.4219866442983953,
+  "close": true
 }
