@@ -7,11 +7,8 @@
         "id": "0e4079c812dbcb9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📔 Mi diario/2021/2021-05-06.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -60,7 +57,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📔 Mi diario/2021/2021-05-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📔 Mi diario/2021/2021-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
