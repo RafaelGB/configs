@@ -7,8 +7,11 @@
         "id": "0e4079c812dbcb9e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📔 Mi diario/2021/2021-05-06.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,6 +60,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📔 Mi diario/2021/2021-05-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📔 Mi diario/2021/2021-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +137,15 @@
   },
   "active": "0e4079c812dbcb9e",
   "lastOpenFiles": [
-    "📔 Mi diario/2021/2021-05-08.md",
-    "Wiki/📁 Tech/📁 AWS/📁 ZettelCaster permanent entries/202105082242 - Estrategias Disaster Recovery en AWS.md",
-    "Wiki/📁 Tech/📁 AWS/Kinesis Data Streams (KDS).md",
-    "Wiki/📁 Tech/📁 AWS/Amazon Redshift.md",
-    "Wiki/📁 Tech/📁 Definiciones/desastre.md",
-    "Wiki/📁 Tech/📁 AWS/Recovery Point Objective (RPO).md",
-    "Wiki/📁 Tech/📁 Definiciones/Recovery Time Objective (RTO).md",
-    "Wiki/📁 Tech/📁 Definiciones/Resiliencia.md",
-    "Wiki/📁 Tech/📁 Definiciones/Disaster recovery (DR).md",
-    "Wiki/📁 Tech/📁 AWS/Kinesis.md"
+    "📔 Mi diario/2021/2021-05-06.md",
+    "Wiki/📁 Productividad/📁 Obsidian/Obsidian.md",
+    "Wiki/📁 Tech/📁 AWS/Simple Storage Service (S3).md",
+    "Wiki/📁 Tech/📁 AWS/Customer Master key (CMK).md",
+    "Wiki/📁 Tech/📁 AWS/📁 ZettelCaster permanent entries/202105061529 - Client-side encryption.md",
+    "Wiki/📁 Tech/📁 AWS/S3 Standard-IA.md",
+    "Wiki/📁 Tech/📁 Definiciones/Serverless.md",
+    "Wiki/📁 Tech/📁 AWS/AWS - Integración entre aplicaciones.md",
+    "Udemy.md",
+    "Wiki/📁 Tech/📁 AWS/Simple Queue Service (SQS).md"
   ]
 }
