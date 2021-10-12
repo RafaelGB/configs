@@ -1,0 +1,31 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "🗂 Recursos comunes/📂 Plantillas",
+  "templates_pairs": [
+    [
+      "obtainModifiedNames",
+      "python3 🗂\\ Recursos\\ comunes/💻\\ Python\\ Scripts/ObtainModifiedFiles.py Wiki"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "enable_system_commands": true,
+  "shell_path": "/bin/zsh",
+  "user_scripts_folder": "🗂 Recursos comunes/💻 JavaScript Common Modules",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "template_folder": "🗂 Recursos comunes/📂 Plantillas",
+  "script_folder": "🗂 Recursos comunes/💻 JavaScript Common Modules",
+  "empty_file_template": ""
+}

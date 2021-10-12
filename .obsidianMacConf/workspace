@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "9137e8c1f6f06310",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e4079c812dbcb9e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33af48d847e368c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "772f79c09cad9c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71cd0d6a2f3ea98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d59b76f7ee0a76d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b77e9585b811ceab",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb70f662367a100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef90475d0d2435a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c8258dfa8395383",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e4079c812dbcb9e",
+  "lastOpenFiles": [
+    "📚 Literature Notes/202109121819 - R Programming Language.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/Mis proyectos personales - Registro.md",
+    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110121407.md",
+    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Mercury GTS/📁 Configuracion entorno/Configuración entorno 2.0 GTS.md",
+    "🗂 Recursos comunes/📂 Dataview/☑️ My Tasks.md",
+    "⚙️ Dashboard Global.md",
+    "Wiki/📁 Tech/📁 AWS/Cómputo.md",
+    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Mercury GTS/📁 Configuracion entorno/Instalar certificado para Tokenmanager y Gluu Server.md",
+    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Mercury GTS/📁 Configuracion entorno/Configurar SQL Developer.md",
+    "Wiki/📁 Tech/📁 AWS/AWS.md"
+  ]
+}
