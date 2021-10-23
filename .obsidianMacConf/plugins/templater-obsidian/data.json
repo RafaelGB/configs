@@ -3,11 +3,16 @@
   "templates_folder": "🗂 Recursos comunes/📂 Plantillas",
   "templates_pairs": [
     [
-      "obtainModifiedNames",
+      "diaryNoteNormalize",
+      "python3 🗂\\ Recursos\\ comunes/💻\\ Python\\ Scripts/diaryNoteObsidian.py"
+    ],
+    [
+      "obtainModifiedFiles",
       "python3 🗂\\ Recursos\\ comunes/💻\\ Python\\ Scripts/ObtainModifiedFiles.py Wiki"
     ]
   ],
   "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "/bin/zsh",
   "user_scripts_folder": "🗂 Recursos comunes/💻 JavaScript Common Modules",

@@ -1,18 +1,17 @@
 {
   "workspaces": {
-    "Main dashboard": {
+    "Proyecto personal actual": {
       "main": {
-        "id": "9137e8c1f6f06310",
+        "id": "a6edac3e7f5e0f19",
         "type": "split",
         "children": [
           {
-            "id": "fe73103b479e04e8",
+            "id": "d9a5d1877c643441",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "⚙️ Dashboard Global.md",
-                "mode": "source"
+                "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md"
               }
             }
           }
@@ -20,15 +19,15 @@
         "direction": "vertical"
       },
       "left": {
-        "id": "83157b72a2b02b96",
+        "id": "33af48d847e368c0",
         "type": "split",
         "children": [
           {
-            "id": "2386b05ce3ea62e3",
+            "id": "772f79c09cad9c19",
             "type": "tabs",
             "children": [
               {
-                "id": "7e138f46b3496c11",
+                "id": "b71cd0d6a2f3ea98",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -36,7 +35,7 @@
                 }
               },
               {
-                "id": "3c9493ae7e10951b",
+                "id": "d59b76f7ee0a76d1",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -53,16 +52,16 @@
             ]
           },
           {
-            "id": "9353827fae4d0dcd",
+            "id": "3fbd8816f88549d3",
             "type": "tabs",
             "children": [
               {
-                "id": "8b7dba6dc6dbbeee",
+                "id": "3ad8b56b0951c4b4",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "⚙️ Dashboard Global.md",
+                    "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -85,8 +84,8 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.5406650008810935,
-                      "close": false
+                      "scale": 1,
+                      "close": true
                     }
                   }
                 }
@@ -98,15 +97,15 @@
         "width": 300
       },
       "right": {
-        "id": "fbb7b28040f47db3",
+        "id": "b77e9585b811ceab",
         "type": "split",
         "children": [
           {
-            "id": "0f45f5b10fd77b7d",
+            "id": "feb70f662367a100",
             "type": "tabs",
             "children": [
               {
-                "id": "b9e89cc565bbdbc0",
+                "id": "ef90475d0d2435a4",
                 "type": "leaf",
                 "state": {
                   "type": "calendar",
@@ -114,12 +113,12 @@
                 }
               },
               {
-                "id": "fcf14559e1a3d4be",
+                "id": "7c8258dfa8395383",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "⚙️ Dashboard Global.md",
+                    "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -127,17 +126,6 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "30ac62bb01897b3c",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
                   }
                 }
               }
@@ -148,8 +136,8 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "fe73103b479e04e8"
+      "active": "d9a5d1877c643441"
     }
   },
-  "active": "Main dashboard"
+  "active": "Proyecto personal actual"
 }

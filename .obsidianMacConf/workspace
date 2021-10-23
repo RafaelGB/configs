@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Recursos comunes/📂 Plantillas/Daily Note Template.md",
+            "file": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🗂 Recursos comunes/📂 Plantillas/Daily Note Template.md",
+                "file": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Recursos comunes/📂 Plantillas/Daily Note Template.md",
+                "file": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "d9a5d1877c643441",
   "lastOpenFiles": [
-    "🗂 Recursos comunes/📂 Plantillas/Daily Note Template.md",
-    "📔 Mi diario/2021-10-21.md",
-    "📔 Mi diario/2021-10-20.md",
-    "📔 Mi diario/2021/2021-05-06.md",
-    "Wiki/📁 Productividad/📁 Obsidian/Obsidian.md",
-    "Wiki/📁 Tech/📁 AWS/Simple Storage Service (S3).md",
-    "Wiki/📁 Tech/📁 AWS/Customer Master key (CMK).md",
-    "Wiki/📁 Tech/📁 AWS/📁 ZettelCaster permanent entries/202105061529 - Client-side encryption.md",
-    "Wiki/📁 Tech/📁 AWS/S3 Standard-IA.md",
-    "Wiki/📁 Tech/📁 Definiciones/Serverless.md"
+    "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md",
+    "Crear un mockup.md",
+    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Tasks/Board tareas.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe index.md",
+    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110240047 - null.md",
+    "📔 Mi diario/2021-10-22.md",
+    "🗂 Recursos comunes/💻 Python Scripts/📔 Mi diario/2021-10-22.md",
+    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110221507 - pruebas.md",
+    "📔 Mi diario/2021-10-21.md"
   ]
 }
