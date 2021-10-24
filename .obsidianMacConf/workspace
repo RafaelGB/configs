@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "a6edac3e7f5e0f19",
+    "id": "d0d5fe7f772773f6",
     "type": "split",
     "children": [
       {
-        "id": "d9a5d1877c643441",
+        "id": "290573e7699a9459",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -60,7 +57,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9a5d1877c643441",
+  "active": "290573e7699a9459",
   "lastOpenFiles": [
-    "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
-    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md",
-    "Crear un mockup.md",
-    "🧑🏼‍💻 Mis proyectos/👷🏼‍♂️ Accenture/📁 Santander/📁 Tasks/Board tareas.md",
+    "Wiki/📁 Tech/📁 AWS/AWS.md",
+    "📨 Buzón de entrada/💡 Ideas/2021/10-2021/202110240112 - Automatizar plantilla creación de tareas.md",
+    "🗂 Recursos comunes/📂 Dataview/💡 My Ideas.md",
+    "📔 Mi diario/2021-10-24.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/obsidian-topic-recipe kanban.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/Crear un mockup.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 TaskCrear un mockup.md",
     "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe index.md",
-    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110240047 - null.md",
-    "📔 Mi diario/2021-10-22.md",
-    "🗂 Recursos comunes/💻 Python Scripts/📔 Mi diario/2021-10-22.md",
-    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110221507 - pruebas.md",
-    "📔 Mi diario/2021-10-21.md"
+    "📨 Buzón de entrada/🧵 Cajón de Sastre/202110241800 - null.md",
+    "🗂 Recursos comunes/📂 Plantillas/Task Template.md"
   ]
 }

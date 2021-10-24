@@ -2,16 +2,16 @@
   "workspaces": {
     "Proyecto personal actual": {
       "main": {
-        "id": "a6edac3e7f5e0f19",
+        "id": "d0d5fe7f772773f6",
         "type": "split",
         "children": [
           {
-            "id": "d9a5d1877c643441",
+            "id": "290573e7699a9459",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md"
+                "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/obsidian-topic-recipe kanban.md"
               }
             }
           }
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md",
+                    "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/obsidian-topic-recipe kanban.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -118,7 +118,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-topic-recipe kanban.md",
+                    "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/obsidian-topic-recipe kanban.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "d9a5d1877c643441"
+      "active": "290573e7699a9459"
     }
   },
   "active": "Proyecto personal actual"
