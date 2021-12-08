@@ -4,5 +4,8 @@
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
-  "dataview"
+  "dataview",
+  "obsidian-tracker",
+  "obsidian-rollover-daily-todos",
+  "obsidian-dbfolder"
 ]
