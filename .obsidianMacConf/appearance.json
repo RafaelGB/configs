@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "custo-headers"
+  ]
 }

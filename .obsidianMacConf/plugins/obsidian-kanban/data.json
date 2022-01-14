@@ -3,21 +3,6 @@
   "show-checkboxes": false,
   "show-relative-date": true,
   "new-note-template": "🗂 Recursos comunes/📂 Plantillas/Task Template.md",
-  "metadata-keys": [
-    {
-      "id": "4cy6xszlz",
-      "metadataKey": "Type",
-      "label": "Type",
-      "shouldHideLabel": false,
-      "containsMarkdown": false
-    },
-    {
-      "id": "qd1lk5fwk",
-      "metadataKey": "Deadline",
-      "label": "Deadline",
-      "shouldHideLabel": false,
-      "containsMarkdown": false
-    }
-  ],
+  "metadata-keys": [],
   "prepend-archive-date": true
 }

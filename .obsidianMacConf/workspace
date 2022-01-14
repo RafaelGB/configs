@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "d0d5fe7f772773f6",
+    "id": "65bcaeebef817b23",
     "type": "split",
     "children": [
       {
-        "id": "5116e310352ad127",
+        "id": "3e675eb548616917",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/BDFolder FAQ.md",
-            "mode": "source"
+            "file": "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -60,7 +61,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/BDFolder FAQ.md",
+                "file": "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,8 +84,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.35320954810508415,
-                  "close": false
+                  "scale": 0.675809069175942,
+                  "close": true
                 }
               }
             }
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/BDFolder FAQ.md",
+                "file": "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,19 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
-  "active": "5116e310352ad127",
+  "active": "3e675eb548616917",
   "lastOpenFiles": [
-    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/BDFolder FAQ.md",
-    "Wiki/📁 Productividad/📁 Obsidian/202110300014 - Empezando a construir un plugin en obsidian.md",
-    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/obsidian-BDFolder index.md",
-    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/Crear un mockup.md",
-    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-topic-recipe/📁 Task/obsidian-topic-recipe kanban.md",
+    "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
+    "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/202112091038 - Golang - conceptos básicos.md",
+    "Wiki/📁 Tech/📁 Arquitectura/Instrucciones de entrada-salida por segundo (IOPS).md",
+    "Wiki/📁 Tech/📁 Arquitectura/📁 Protocolos de comunicación/Protocolos de comunicación - index.md",
+    "📨 Buzón de entrada/💡 Ideas/202112231003 - crear kill por terminal en funcion de grep de entrada.md",
+    "📨 Buzón de entrada/💡 Ideas/202112231617 - mover dia anterior a carpeta anual al lanzar template de daily.md",
     "⚙️ Dashboard Global.md",
-    "📔 Mi diario/2021-12-08.md",
-    "📔 Mi diario/2021-12-07.md",
-    "📔 Mi diario/2021-12-06.md",
-    "📨 Buzón de entrada/💡 Ideas/2021/11-2021/202111100937 - Mover ficheros bajo el directorio del padre en obsidian.md"
+    "📔 Mi diario/2022-01-14.md",
+    "🗂 Recursos comunes/📂 Plantillas/ZettelCaster fleeting note.md",
+    "🗂 Recursos comunes/📂 Dataview/☑️ My Tasks.md"
   ]
 }
