@@ -7,7 +7,7 @@
         "id": "89054b2e1a569f1c",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -142,15 +142,15 @@
   },
   "active": "89054b2e1a569f1c",
   "lastOpenFiles": [
-    "📨 Buzón de entrada/💡 Ideas/202202170903 - Dashboard de ideas usando tracker en vez de una lista en el global.md",
+    "📨 Buzón de entrada/💡 Ideas/202202202140 - hola nueva idea.md",
     "📨 Buzón de entrada/💡 Ideas/My ideas - Kanban.md",
+    "📨 Buzón de entrada/💡 Ideas/202202170903 - Dashboard de ideas usando tracker en vez de una lista en el global.md",
     "⚙️ Dashboard Global.md",
     "📨 Buzón de entrada/⏱ Fleeting Notes/202202141818 - Sencha widgets - argumentos de entrada.md",
     "📚 Literature Notes/202202191559 - UML diagrams with StarUML.md",
     "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-dbfolder-plugin/📁 Task/obsidian-dbfolder kanban.md",
     "🗂 Recursos comunes/📊 Tracker/Task tracking.md",
     "🗂 Recursos comunes/📊 Tracker/Daily tracking.md",
-    "Wiki/wiki root.md",
-    "Wiki/📁 Tech/📁 Lenguajes de programación/Lenguajes de programación - index.md"
+    "Wiki/wiki root.md"
   ]
 }
