@@ -1,16 +1,7 @@
 {
   "command_timeout": 5,
   "templates_folder": "🗂 Recursos comunes/📂 Plantillas",
-  "templates_pairs": [
-    [
-      "diaryNoteNormalize",
-      "python3 🗂\\ Recursos\\ comunes/💻\\ Python\\ Scripts/diaryNoteObsidian.py"
-    ],
-    [
-      "obtainModifiedFiles",
-      "python3 🗂\\ Recursos\\ comunes/💻\\ Python\\ Scripts/ObtainModifiedFiles.py Wiki"
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
@@ -28,7 +19,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "🗂 Recursos comunes/📂 Plantillas/📁 startup/initScriptConfig.md"
   ],
   "template_folder": "🗂 Recursos comunes/📂 Plantillas",
   "script_folder": "🗂 Recursos comunes/💻 JavaScript Common Modules",

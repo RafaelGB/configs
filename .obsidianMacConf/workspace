@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e675eb548616917",
+        "id": "89054b2e1a569f1c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.675809069175942,
+                  "scale": 0.47396269900043747,
                   "close": true
                 }
               }
@@ -118,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,19 +138,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 295.5
   },
-  "active": "3e675eb548616917",
+  "active": "89054b2e1a569f1c",
   "lastOpenFiles": [
-    "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/Golang - index.md",
-    "Wiki/📁 Tech/📁 Lenguajes de programación/📁 Golang/202112091038 - Golang - conceptos básicos.md",
-    "Wiki/📁 Tech/📁 Arquitectura/Instrucciones de entrada-salida por segundo (IOPS).md",
-    "Wiki/📁 Tech/📁 Arquitectura/📁 Protocolos de comunicación/Protocolos de comunicación - index.md",
-    "📨 Buzón de entrada/💡 Ideas/202112231003 - crear kill por terminal en funcion de grep de entrada.md",
-    "📨 Buzón de entrada/💡 Ideas/202112231617 - mover dia anterior a carpeta anual al lanzar template de daily.md",
+    "📨 Buzón de entrada/💡 Ideas/202202170903 - Dashboard de ideas usando tracker en vez de una lista en el global.md",
+    "📨 Buzón de entrada/💡 Ideas/My ideas - Kanban.md",
     "⚙️ Dashboard Global.md",
-    "📔 Mi diario/2022-01-14.md",
-    "🗂 Recursos comunes/📂 Plantillas/ZettelCaster fleeting note.md",
-    "🗂 Recursos comunes/📂 Dataview/☑️ My Tasks.md"
+    "📨 Buzón de entrada/⏱ Fleeting Notes/202202141818 - Sencha widgets - argumentos de entrada.md",
+    "📚 Literature Notes/202202191559 - UML diagrams with StarUML.md",
+    "🧑🏼‍💻 Mis proyectos/🙊 Personales/📁 obsidian-dbfolder-plugin/📁 Task/obsidian-dbfolder kanban.md",
+    "🗂 Recursos comunes/📊 Tracker/Task tracking.md",
+    "🗂 Recursos comunes/📊 Tracker/Daily tracking.md",
+    "Wiki/wiki root.md",
+    "Wiki/📁 Tech/📁 Lenguajes de programación/Lenguajes de programación - index.md"
   ]
 }

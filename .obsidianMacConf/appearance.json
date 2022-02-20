@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "custo-headers"
-  ]
+  ],
+  "theme": "obsidian"
 }
